@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="otv\2otvet.php" method="post">
+    <form action="практика 6.php" method="post">
 
 <p>Ваше имя: <input type="text" name="firstName" required></p>
 <p>Ваш возраст: <input type="number" name="twoName" min="0" required></p>
